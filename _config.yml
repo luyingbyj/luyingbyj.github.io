@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 由定至得
+title: 定得
 subtitle: 陆莹的网志
 description:
 author: Maggie Lu
@@ -595,7 +595,7 @@ pace: false
 pace_theme: pace-theme-minimal
 
 # Canvas-nest
-canvas_nest: false
+canvas_nest: true
 
 # three_waves
 three_waves: false
@@ -608,7 +608,7 @@ canvas_sphere: false
 
 # Only fit scheme Pisces
 # Canvas-ribbon
-canvas_ribbon: true
+canvas_ribbon: false
 
 # Script Vendors.
 # Set a CDN address for the vendor you want to customize.
